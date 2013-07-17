@@ -149,7 +149,7 @@ INSTALLED_APPS = (
     "django.contrib.sites",
     "django.contrib.sitemaps",
     "django.contrib.staticfiles",
-    "dojo",
+    "beltbadgers_com.apps.dojo",
 )
 
 # A sample logging configuration. The only tangible logging
