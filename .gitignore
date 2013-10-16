@@ -1,3 +1,7 @@
 *.egg-info
 *.tox
 *.pyc
+.idea/
+dev.db
+dojo
+venv/

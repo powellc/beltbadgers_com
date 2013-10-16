@@ -7,6 +7,7 @@ version = __import__('beltbadgers_com').__version__
 install_requires = [
     'django',
     'south',
+    'django-belts',
     'django-autoslug',
     'django-tinymce',
 ]
