@@ -4,4 +4,6 @@
 .idea/
 dev.db
 dojo
-venv/
+venv
+docs/build
+public

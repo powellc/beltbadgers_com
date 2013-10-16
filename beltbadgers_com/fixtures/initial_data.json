@@ -1,0 +1,14 @@
+[
+  {
+    {"model": "django.contrib.auth.User",
+     "pk": 100000,
+     "data": [
+       "first_name", "Admin",
+       "last_name", "User",
+       "is_superuser", "True",
+       "username", "admin",
+       "password", "pbkdf2_sha256$10000$boBaFR0suTXt$Y16Z9DpZzTM3faz9KQo8rAoHP13zADi2p3Gj87eY/PE=",
+       "is_staff", "True"]
+    }
+  }
+]
