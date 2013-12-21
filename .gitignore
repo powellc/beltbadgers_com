@@ -7,3 +7,5 @@ dojo
 venv
 docs/build
 public
+build
+dist
